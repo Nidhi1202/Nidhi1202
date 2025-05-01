@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nidhi Shrivastav</h1>
 <h3 align="center">An enthusiastic learner committed to her work</h3>
 
-- 🌱 I’m currently pursuing **MS in CS **
+- 🌱 I’m currently pursuing **MS** in **CS**
 
 - 📫 How to reach me **hinidhi12@gmail.com**
 
