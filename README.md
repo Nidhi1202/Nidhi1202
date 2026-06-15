@@ -38,4 +38,4 @@
 
 ---
 
-🔗 [LinkedIn](https://www.linkedin.com/in/nidhishrivastav)
+🔗 [LinkedIn](https://www.linkedin.com/in/-nidhishrivastav/)
